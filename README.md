@@ -2,8 +2,11 @@
 
 ## Introduction 
 
-This is a small guessing game I have built, I have tried to make it appear scarry for the fun of it, and that is a part that needs some more work still 
-For now all basic functionalities have been implemented, I will expand on this game and make it more interesting 
+A small guessing game I built, scarry for the fun of it.
+
+I will expand on this game and make it more interesting. 
+
+**Tech Used: HTML5, CSS3, Javascript, Visual Studio Code, Live Server, Git for Version Control. **
 
 ## Description
 
@@ -19,4 +22,8 @@ For now all basic functionalities have been implemented, I will expand on this g
 ## Steps to Run
 1. Clone the repo
 2. Open HTML file in a browser / use LiveServer just as I did.
+
+##Learning and Fun
+
+I enjoyed making this game, hope you enjoy playing too, Learned more about CSS and Javascript in DOM. 
 
