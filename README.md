@@ -23,7 +23,7 @@ I will expand on this game and make it more interesting.
 1. Clone the repo
 2. Open HTML file in a browser / use LiveServer just as I did.
 
-##Learning and Fun
+## Learning and Fun
 
 I enjoyed making this game, hope you enjoy playing too, Learned more about CSS and Javascript in DOM. 
 
